@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=1X2 Coin
+Comment=1X2 Coin P2P Cryptocurrency
+Comment[fr]=1X2 Coin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=1X2 Coin, eşten eşe kriptografik sanal para birimi
+Exec=1x2coin-qt %u
+Terminal=false
+Type=Application
+Icon=1x2coin128
+MimeType=x-scheme-handler/1x2coin;
+Categories=Office;Finance;
